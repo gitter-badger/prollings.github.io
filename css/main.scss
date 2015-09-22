@@ -27,6 +27,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+//custom
+$header-gradient-top-color: lighten(invert($background-color), 80%);
+$header-title-font-color: black;
+$header-nav-font-color: black;
+
 
 
 // Using media queries with like this:

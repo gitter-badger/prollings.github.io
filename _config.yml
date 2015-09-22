@@ -2,7 +2,7 @@
 title: Patrick Rollings
 email: no@email.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just a little site to keep track of little projects and development of them.
+  Just a little site to keep track of little projects and their development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://prollings.github.io" # the base hostname & protocol for your site
 twitter_username: teapotrick
